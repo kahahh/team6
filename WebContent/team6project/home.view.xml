@@ -1,6 +1,10 @@
 <core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
 		controllerName="team6project.home" xmlns:html="http://www.w3.org/1999/xhtml">
+<<<<<<< HEAD
 	<Page title="ss">
+=======
+	<Page title="haesun">
+>>>>>>> 1c77ed334128bbb85a4464a44ed18f53b8cbc111
 		<content>
 			
 		</content>
